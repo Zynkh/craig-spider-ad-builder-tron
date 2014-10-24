@@ -9,4 +9,4 @@ A little program I run from my terminal to scrape the website of an auto dealer 
 * Pulls all the images into the correct folder.
 * Congratulates me on a job well done.
 
-Because the dealership is kind of bad at keeping their information uniorm, I had to account for a few different contingencies, which was actually pretty fun.
+Because the dealership is kind of bad at keeping their information uniform, I had to account for a few different contingencies, which was actually pretty fun.
